@@ -28,7 +28,7 @@ function inc(n) {
   return n += 1;
 }
 
-console.log(inc(1));
+// console.log(inc(1));
 
 function dec(n) {
   return n -= 1;
@@ -36,3 +36,8 @@ function dec(n) {
 
 // console.log(inc(1));
 
+function makeInt(n) {
+  return parseInt(n);
+}
+
+console.log("2232.2");
