@@ -10,4 +10,6 @@ function substract(a, b) {
   return a - b;
 }
 
-console.log(substract(1, 2));
+// console.log(substract(1, 2));
+
+
