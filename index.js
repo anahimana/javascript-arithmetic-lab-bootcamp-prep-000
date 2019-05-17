@@ -24,5 +24,9 @@ function divide(a, b) {
 
 console.log(divide(1, 2));
 
+function inc(n) {
+  return n ++;
+}
 
+console.log(inc(1));
 
