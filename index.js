@@ -41,3 +41,9 @@ function makeInt(n) {
 }
 
 console.log(makeInt("5", 10));
+
+function perserveDecimal(n) {
+  return parseFloat(n);
+}
+
+console.log(perserveDecimal(2.024));
