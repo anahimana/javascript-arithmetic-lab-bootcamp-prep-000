@@ -37,7 +37,7 @@ function dec(n) {
 // console.log(inc(1));
 
 function makeInt(n) {
-  return parseInt(n);
+  return parseInt(n, 10);
 }
 
-// console.log(makeInt("34"));
+console.log(makeInt("5", 10));
