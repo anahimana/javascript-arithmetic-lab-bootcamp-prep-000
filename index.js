@@ -22,10 +22,10 @@ function divide(a, b) {
   return a / b;
 }
 
-console.log(divide(1, 2));
+// console.log(divide(1, 2));
 
 function inc(n) {
-  return n ++;
+  return n++;
 }
 
 console.log(inc(1));
