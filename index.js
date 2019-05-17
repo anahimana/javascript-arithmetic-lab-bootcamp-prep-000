@@ -16,6 +16,13 @@ function multiply(a, b) {
   return a * b;
 }
 
-console.log(multiply(1, 2));
+// console.log(multiply(1, 2));
+
+function divide(a, b) {
+  return a / b;
+}
+
+console.log(divide(1, 2));
+
 
 
