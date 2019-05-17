@@ -42,10 +42,10 @@ function makeInt(n) {
 
 // console.log(makeInt("5", 10));
 
-function perserveDecimal(n) {
+function preserveDecimal(n) {
   return parseFloat(n);
 }
 
-console.log(perserveDecimal(2.024));
-console.log(perserveDecimal("Cook"));
+console.log(preserveDecimal(2.024));
+console.log(preserveDecimal("Cook"));
 
