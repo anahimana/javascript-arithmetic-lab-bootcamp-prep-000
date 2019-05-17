@@ -7,7 +7,7 @@ function add(a, b) {
 // console.log(add(1, 2));
 
 function substract(a, b) {
-  return a - b;
+  return b - a;
 }
 
 // console.log(substract(1, 2));
