@@ -40,4 +40,4 @@ function makeInt(n) {
   return parseInt(n);
 }
 
-console.log("hello");
+console.log(makeInt("232"));
