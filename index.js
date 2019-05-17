@@ -10,7 +10,7 @@ function substract(a, b) {
   return a - b;
 }
 
-console.log(substract(4, 2));
+// console.log(substract(4, 2));
 
 function multiply(a, b) {
   return a * b;
