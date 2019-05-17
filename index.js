@@ -7,10 +7,10 @@ function add(a, b) {
 // console.log(add(1, 2));
 
 function substract(a, b) {
-  return b - a;
+  return a - b;
 }
 
-// console.log(substract(1, 2));
+console.log(substract(4, 2));
 
 function multiply(a, b) {
   return a * b;
