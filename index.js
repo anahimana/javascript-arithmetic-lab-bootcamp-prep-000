@@ -35,3 +35,4 @@ function inc(n) {
 }
 
 console.log(inc(1));
+
