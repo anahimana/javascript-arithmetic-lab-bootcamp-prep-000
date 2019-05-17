@@ -40,7 +40,7 @@ function makeInt(n) {
   return parseInt(n, 10);
 }
 
-console.log(makeInt("5", 10));
+// console.log(makeInt("5", 10));
 
 function perserveDecimal(n) {
   return parseFloat(n);
