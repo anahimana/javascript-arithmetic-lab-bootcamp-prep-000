@@ -9,3 +9,5 @@ function add(a, b) {
 function substract(a, b) {
   return a - b;
 }
+
+console.log(substract(1, 2));
