@@ -47,5 +47,5 @@ function perserveDecimal(n) {
 }
 
 console.log(perserveDecimal(2.024));
-console.log(perserveDecimal(2.024));
+console.log(perserveDecimal("Cook"));
 
